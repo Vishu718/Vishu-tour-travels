@@ -16,7 +16,7 @@ if (close) {
 }
 //animation on scroll
 AOS.init({
-
+once:true;
 
 });
 
