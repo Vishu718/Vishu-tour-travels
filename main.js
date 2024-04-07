@@ -15,10 +15,10 @@ if (close) {
     })
 }
 //animation on scroll
-AOS.init({
+//AOS.init({
 
 
-});
+//});
 
 // vars
 var testim = document.getElementById("testim"),
